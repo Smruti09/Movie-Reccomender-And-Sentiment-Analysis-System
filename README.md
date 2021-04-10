@@ -1,4 +1,4 @@
-# Movie-Reccomender-And-Sentiment-Analysis-System
+# Movie-Recommender-And-Sentiment-Analysis-System
 
 This is a repository my project Movie Recommender and Sentiment Analysis System
 
